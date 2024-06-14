@@ -5,5 +5,5 @@ This app provides a single function (no workflow) that returns the member list o
 Start by cloning this repository:
 
 ```zsh
-$ slack create sms-function -t andrewn-net/channel-member-list
+$ slack create channel-member-list -t andrewn-net/channel-member-list
 ```
